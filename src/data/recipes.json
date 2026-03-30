@@ -1,0 +1,423 @@
+{
+    "savory": [
+        {
+            "id": "s1",
+            "name": "Thịt Kho Tàu (Braised Pork with Eggs)",
+            "ingredients": [
+                {
+                    "name": "Pork Belly",
+                    "amount": 500,
+                    "unit": "g"
+                },
+                {
+                    "name": "Eggs",
+                    "amount": 6,
+                    "unit": "pcs"
+                },
+                {
+                    "name": "Coconut Water",
+                    "amount": 1,
+                    "unit": "can"
+                },
+                {
+                    "name": "Fish Sauce",
+                    "amount": 3,
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "Sugar",
+                    "amount": 2,
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "Garlic",
+                    "amount": 3,
+                    "unit": "cloves"
+                }
+            ]
+        },
+        {
+            "id": "s2",
+            "name": "Gà Kho Gừng (Braised Chicken with Ginger)",
+            "ingredients": [
+                {
+                    "name": "Chicken Thighs",
+                    "amount": 600,
+                    "unit": "g"
+                },
+                {
+                    "name": "Ginger",
+                    "amount": 50,
+                    "unit": "g"
+                },
+                {
+                    "name": "Fish Sauce",
+                    "amount": 3,
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "Sugar",
+                    "amount": 1,
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "Garlic",
+                    "amount": 2,
+                    "unit": "cloves"
+                }
+            ]
+        },
+        {
+            "id": "s3",
+            "name": "Cá Kho Tộ (Caramelized Fish in Clay Pot)",
+            "ingredients": [
+                {
+                    "name": "Catfish or Mackerel",
+                    "amount": 500,
+                    "unit": "g"
+                },
+                {
+                    "name": "Pork Belly (optional)",
+                    "amount": 100,
+                    "unit": "g"
+                },
+                {
+                    "name": "Fish Sauce",
+                    "amount": 4,
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "Sugar",
+                    "amount": 3,
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "Shallots",
+                    "amount": 3,
+                    "unit": "bulbs"
+                },
+                {
+                    "name": "Chili",
+                    "amount": 2,
+                    "unit": "pcs"
+                }
+            ]
+        },
+        {
+            "id": "s4",
+            "name": "Sườn Ram Mặn (Salty Fried Pork Ribs)",
+            "ingredients": [
+                {
+                    "name": "Pork Ribs",
+                    "amount": 600,
+                    "unit": "g"
+                },
+                {
+                    "name": "Fish Sauce",
+                    "amount": 3,
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "Sugar",
+                    "amount": 2,
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "Garlic",
+                    "amount": 3,
+                    "unit": "cloves"
+                },
+                {
+                    "name": "Spring Onion",
+                    "amount": 2,
+                    "unit": "stalks"
+                }
+            ]
+        },
+        {
+            "id": "s5",
+            "name": "Đậu Hũ Nhồi Thịt Sốt Cà (Stuffed Tofu with Tomato Sauce)",
+            "ingredients": [
+                {
+                    "name": "Tofu",
+                    "amount": 4,
+                    "unit": "blocks"
+                },
+                {
+                    "name": "Ground Pork",
+                    "amount": 200,
+                    "unit": "g"
+                },
+                {
+                    "name": "Tomatoes",
+                    "amount": 3,
+                    "unit": "pcs"
+                },
+                {
+                    "name": "Wood Ear Mushrooms",
+                    "amount": 20,
+                    "unit": "g"
+                },
+                {
+                    "name": "Fish Sauce",
+                    "amount": 2,
+                    "unit": "tbsp"
+                }
+            ]
+        },
+        {
+            "id": "s6",
+            "name": "Tôm Rim Thịt (Caramelized Shrimp and Pork)",
+            "ingredients": [
+                {
+                    "name": "Shrimp",
+                    "amount": 300,
+                    "unit": "g"
+                },
+                {
+                    "name": "Pork Belly",
+                    "amount": 200,
+                    "unit": "g"
+                },
+                {
+                    "name": "Fish Sauce",
+                    "amount": 2,
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "Sugar",
+                    "amount": 1.5,
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "Garlic",
+                    "amount": 3,
+                    "unit": "cloves"
+                }
+            ]
+        },
+        {
+            "id": "s7",
+            "name": "Mực Xào Chua Ngọt (Sweet and Sour Stir-fried Squid)",
+            "ingredients": [
+                {
+                    "name": "Squid",
+                    "amount": 500,
+                    "unit": "g"
+                },
+                {
+                    "name": "Pineapple",
+                    "amount": 0.25,
+                    "unit": "pcs"
+                },
+                {
+                    "name": "Tomatoes",
+                    "amount": 2,
+                    "unit": "pcs"
+                },
+                {
+                    "name": "Cucumber",
+                    "amount": 1,
+                    "unit": "pcs"
+                },
+                {
+                    "name": "Onion",
+                    "amount": 1,
+                    "unit": "bulb"
+                },
+                {
+                    "name": "Celery",
+                    "amount": 50,
+                    "unit": "g"
+                }
+            ]
+        }
+    ],
+    "soup": [
+        {
+            "id": "so1",
+            "name": "Canh Chua Cá (Sour Fish Soup)",
+            "ingredients": [
+                {
+                    "name": "Fish (Catfish/Snakehead)",
+                    "amount": 300,
+                    "unit": "g"
+                },
+                {
+                    "name": "Pineapple",
+                    "amount": 0.25,
+                    "unit": "pcs"
+                },
+                {
+                    "name": "Tomatoes",
+                    "amount": 2,
+                    "unit": "pcs"
+                },
+                {
+                    "name": "Okra",
+                    "amount": 100,
+                    "unit": "g"
+                },
+                {
+                    "name": "Bean Sprouts",
+                    "amount": 100,
+                    "unit": "g"
+                },
+                {
+                    "name": "Tamarind Pulp",
+                    "amount": 50,
+                    "unit": "g"
+                },
+                {
+                    "name": "Rice Paddy Herb (Ngò Om)",
+                    "amount": 1,
+                    "unit": "bunch"
+                }
+            ]
+        },
+        {
+            "id": "so2",
+            "name": "Canh Rau Ngót Thịt Bằm (Katuk Soup with Minced Pork)",
+            "ingredients": [
+                {
+                    "name": "Rau Ngót (Katuk)",
+                    "amount": 1,
+                    "unit": "bunch"
+                },
+                {
+                    "name": "Ground Pork",
+                    "amount": 150,
+                    "unit": "g"
+                },
+                {
+                    "name": "Fish Sauce",
+                    "amount": 1,
+                    "unit": "tbsp"
+                }
+            ]
+        },
+        {
+            "id": "so3",
+            "name": "Canh Bí Đao Tôm Khô (Winter Melon Soup with Dried Shrimp)",
+            "ingredients": [
+                {
+                    "name": "Winter Melon",
+                    "amount": 500,
+                    "unit": "g"
+                },
+                {
+                    "name": "Dried Shrimp",
+                    "amount": 30,
+                    "unit": "g"
+                },
+                {
+                    "name": "Spring Onion",
+                    "amount": 1,
+                    "unit": "stalk"
+                }
+            ]
+        },
+        {
+            "id": "so4",
+            "name": "Canh Cải Bẹ Xanh Gừng (Mustard Greens Soup with Ginger)",
+            "ingredients": [
+                {
+                    "name": "Mustard Greens",
+                    "amount": 400,
+                    "unit": "g"
+                },
+                {
+                    "name": "Ginger",
+                    "amount": 20,
+                    "unit": "g"
+                },
+                {
+                    "name": "Ground Pork (optional)",
+                    "amount": 100,
+                    "unit": "g"
+                }
+            ]
+        },
+        {
+            "id": "so5",
+            "name": "Canh Khổ Qua Nhồi Thịt (Stuffed Bitter Melon Soup)",
+            "ingredients": [
+                {
+                    "name": "Bitter Melon",
+                    "amount": 3,
+                    "unit": "pcs"
+                },
+                {
+                    "name": "Ground Pork",
+                    "amount": 200,
+                    "unit": "g"
+                },
+                {
+                    "name": "Wood Ear Mushrooms",
+                    "amount": 10,
+                    "unit": "g"
+                },
+                {
+                    "name": "Glass Noodles",
+                    "amount": 10,
+                    "unit": "g"
+                }
+            ]
+        },
+        {
+            "id": "so6",
+            "name": "Canh Bầu Nấu Tôm (Gourd Soup with Shrimp)",
+            "ingredients": [
+                {
+                    "name": "Bottle Gourd (Bầu)",
+                    "amount": 1,
+                    "unit": "pc"
+                },
+                {
+                    "name": "Fresh Shrimp",
+                    "amount": 150,
+                    "unit": "g"
+                },
+                {
+                    "name": "Spring Onion",
+                    "amount": 1,
+                    "unit": "stalk"
+                }
+            ]
+        },
+        {
+            "id": "so7",
+            "name": "Canh Mướp Mồng Tơi (Sponge Gourd and Malabar Spinach Soup)",
+            "ingredients": [
+                {
+                    "name": "Sponge Gourd (Mướp)",
+                    "amount": 1,
+                    "unit": "pc"
+                },
+                {
+                    "name": "Malabar Spinach (Mồng Tơi)",
+                    "amount": 1,
+                    "unit": "bunch"
+                },
+                {
+                    "name": "Dried Shrimp",
+                    "amount": 20,
+                    "unit": "g"
+                }
+            ]
+        }
+    ],
+    "staple": [
+        {
+            "id": "st1",
+            "name": "Rice",
+            "ingredients": [
+                {
+                    "name": "Jasmine Rice",
+                    "amount": 1.5,
+                    "unit": "cups"
+                }
+            ]
+        }
+    ]
+}
